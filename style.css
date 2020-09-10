@@ -1,0 +1,30 @@
+html {
+		font-size: 100%;
+		background-color: #333;
+		}
+
+body {
+	font-family: Arial;
+	background: #333;
+	color: #fff;
+}
+#header {
+	padding-top: 40px;
+	width: 950px;
+}
+.map {
+	width: 500px;
+	height: 500px;
+	display: block;
+	 margin: 0 auto;
+	background-color: royalblue;
+	border: 5px dashed darkslategray;
+}
+.myCanvas {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.score {
+	text-align: center;
+}
